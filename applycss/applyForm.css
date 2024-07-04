@@ -1,0 +1,83 @@
+
+#ptage {
+border-bottom:1px dotted #d8d8d8;
+padding-bottom:15px;
+font-size:17px
+}
+#sliderone {
+width:500px;
+top:100px;
+position:fixed;
+}
+#headerone {
+margin-top: 10px;
+background-color: white ;
+width:343px;    
+position:absolute;
+right:0;
+border:1px solid #d8d8d8;
+margin-left:40px;
+padding:20px 40px;
+border-radius:3px;
+box-shadow:0 0 8px gray
+}
+#sidebartow {
+position:absolute;
+top:100px;
+left:113px;
+padding: 0px;
+box-shadow:0 0 8px gray
+}
+#sidebartow {
+position:absolute;
+top:100px;
+left:113px;
+box-shadow:0 0 8px gray
+}
+#hthree{
+font-family:'Roboto Slab',serif
+}
+.inputes {
+margin-top:10px;
+padding:6px;
+width:100%;
+font-size:15px;
+border-radius:2px;
+border:3px solid #98d0f1
+}
+#hfour {
+font-size:15px
+}
+div#title {
+position:absolute;
+top:300px;
+left:650px
+}
+select {
+padding:6px;
+width:100%;
+font-size:15px;
+border-radius:2px;
+border:3px solid #98d0f1
+}
+textarea {
+padding:6px;
+font-size:15px;
+border-radius:2px;
+border:3px solid #98d0f1;
+margin-top:10px;
+height:80px;
+width:100%
+}
+.sendMe {
+background:#2bc1f2;
+border:none;
+color:#fff;
+width:100%;
+font-size:22px;
+font-weight:bolder;
+padding:18px 0;
+border-radius:3px;
+cursor:pointer;
+margin-top:25px
+}
